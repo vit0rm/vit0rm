@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [LACAM](https://figshare.com/articles/dataset/Tabelas_de_Recusos_e_Usos_do_Par_de_2017/23291702)
 
-- 📫 How to reach me **vitormarinho@cedeplar.ufmg..br**
+- 📫 How to reach me **vitormarinho@cedeplar.ufmg.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
