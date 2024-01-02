@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Fundação João Pinheiro [Indicadores Sociais](https://rpubs.com/fjp)
 
-- 🌱 I’m currently learning **Ph.D. student in Economics**
+- 🌱 I’m currently learning *Ph.D. student in Economics*
 
 - 👯 I’m looking to collaborate on [LACAM](https://figshare.com/articles/dataset/Tabelas_de_Recusos_e_Usos_do_Par_de_2017/23291702)
 
-- 📫 How to reach me **vitormarinho@cedeplar.ufmg.br**
+- 📫 How to reach me *vitormarinho@cedeplar.ufmg.br*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://rpubs.com/fjp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/R-Dark.svg" alt="R" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vit0rm&show_icons=true&locale=en&layout=compact" alt="vit0rm" /></p>
 
